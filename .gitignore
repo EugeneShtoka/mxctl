@@ -1,0 +1,16 @@
+# Documentation drafts
+.docs
+
+# Claude Code session data
+.claude
+
+# Vim swap files
+*.swp
+*.swo
+
+# Go test binaries
+*.test
+
+# Binary
+mxctl
+*.out
